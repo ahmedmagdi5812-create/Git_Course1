@@ -13,4 +13,4 @@ For El Zero Web School Git General
 
 
 
-### hi this my teaching repository 
+### Project Notes
